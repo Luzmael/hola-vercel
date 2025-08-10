@@ -5,9 +5,10 @@ export default function Home() {
       justifyContent: 'center',
       alignItems: 'center',
       height: '100vh',
-      fontSize: '2rem'
+      fontSize: '2rem',
+      fontWeight: 'bold'
     }}>
-      ¡Hola Mundo desde Vercel!
+      ¡Hola Mundo Directo en Vercel!
     </div>
   )
 }
