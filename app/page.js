@@ -8,7 +8,7 @@ export default function Home() {
       fontSize: '2rem',
       fontWeight: 'bold'
     }}>
-      ¡Hola Mundo Directo en Vercel!
+      ¡ALAN ES GAY!
     </div>
   )
 }
